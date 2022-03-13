@@ -1,0 +1,11 @@
+C:\Users\laris\Desktop\FACULDADE FATEC\exercicios LP 2\PROJETO 3\EXERCICIO 1\EXERCICIO 1\obj\Debug\EXERCICIO 1.csproj.AssemblyReference.cache
+C:\Users\laris\Desktop\FACULDADE FATEC\exercicios LP 2\PROJETO 3\EXERCICIO 1\EXERCICIO 1\obj\Debug\EXERCICIO 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\laris\Desktop\FACULDADE FATEC\exercicios LP 2\PROJETO 3\EXERCICIO 1\EXERCICIO 1\obj\Debug\EXERCICIO_1.Form1.resources
+C:\Users\laris\Desktop\FACULDADE FATEC\exercicios LP 2\PROJETO 3\EXERCICIO 1\EXERCICIO 1\obj\Debug\EXERCICIO_1.Properties.Resources.resources
+C:\Users\laris\Desktop\FACULDADE FATEC\exercicios LP 2\PROJETO 3\EXERCICIO 1\EXERCICIO 1\obj\Debug\EXERCICIO 1.csproj.GenerateResource.cache
+C:\Users\laris\Desktop\FACULDADE FATEC\exercicios LP 2\PROJETO 3\EXERCICIO 1\EXERCICIO 1\obj\Debug\EXERCICIO 1.csproj.CoreCompileInputs.cache
+C:\Users\laris\Desktop\FACULDADE FATEC\exercicios LP 2\PROJETO 3\EXERCICIO 1\EXERCICIO 1\bin\Debug\EXERCICIO 1.exe.config
+C:\Users\laris\Desktop\FACULDADE FATEC\exercicios LP 2\PROJETO 3\EXERCICIO 1\EXERCICIO 1\bin\Debug\EXERCICIO 1.exe
+C:\Users\laris\Desktop\FACULDADE FATEC\exercicios LP 2\PROJETO 3\EXERCICIO 1\EXERCICIO 1\bin\Debug\EXERCICIO 1.pdb
+C:\Users\laris\Desktop\FACULDADE FATEC\exercicios LP 2\PROJETO 3\EXERCICIO 1\EXERCICIO 1\obj\Debug\EXERCICIO 1.exe
+C:\Users\laris\Desktop\FACULDADE FATEC\exercicios LP 2\PROJETO 3\EXERCICIO 1\EXERCICIO 1\obj\Debug\EXERCICIO 1.pdb
